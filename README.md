@@ -1,4 +1,4 @@
-# STAT-306-PROJECT
+# Sleep Efficiency Analysis
 
 Analyzing the effects of different variables on sleep efficiency.
 
