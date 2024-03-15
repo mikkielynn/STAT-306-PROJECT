@@ -1,20 +1,3 @@
-# Sleep Efficiency Analysis
+Model Prediction on Sleep Efficiency
 
-Analyzing the effects of different variables on sleep efficiency.
-
-The dataset includes the following variables:
-Exercise frequency
-Alcohol consumption
-Caffeine consumption
-Deep sleep percentage
-Light sleep percentage
-REM sleep percentage
-Age
-Gender
-Bedtime
-Wakeup time
-Awakenings
-Sleep duration
-Sleep efficiency
-Smoking status
-Exercise frequency
+An analysis investigating how various variables impact sleep efficiency, with a specific focus on sleeping disorders, and identifying the most significant factors contributing to them. Conducted model testing, using metrics to determine the best fit for the data.
